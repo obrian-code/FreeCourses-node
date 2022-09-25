@@ -23,13 +23,13 @@ index.js <br>
 .gitignore <br>
 src / <br>
 └── connection <br>
-    └── bd.js <br>
+    bd.js <br>
 └── controllers <br>
-    └── controllers.js <br>
+    controllers.js <br>
 └── inc <br>
-    └── config.js <br>
+    config.js <br>
 └── router <br>
-    └── router.js <br>
+    router.js <br>
 app.js
 
 
