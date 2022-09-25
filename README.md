@@ -4,7 +4,7 @@ Free Courses es una API diseñada para subir Cursos y Cupones Gratis para Udemy 
 
 ## Free Courses API
 
-Free Courses es una plataforma diseñada para subir Cursos y Cupones Gratis, es pequeño proyecto que aportará a la comudidad y en un plazo determiado.
+Free Courses es una plataforma diseñada para subir Cursos y Cupones Gratis, es pequeño proyecto que aportará a la comunidad y en un plazo determiado.
 
 ## Construido con
 
