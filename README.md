@@ -35,17 +35,19 @@ app.js
 
 ## Instalación
 
-    Clonar el repositorio   
+Clonar el repositorio   
     
     ```
     git clone https://github.com/obrian-code/FreeCourses-node
     ```
-    Instalar paquetes
+    
+Instalar paquetes
     
     ```
     npm install
     ```
-    Ejecutar código
+
+Ejecutar código
 
     ```
     npm run dev
