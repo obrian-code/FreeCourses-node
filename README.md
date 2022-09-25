@@ -38,30 +38,30 @@ app.js
 Clonar el repositorio   
     
     ```
-    git clone https://github.com/obrian-code/FreeCourses-node
+      git clone https://github.com/obrian-code/FreeCourses-node
     ```
     
 Instalar paquetes
     
     ```
-    npm install
+      npm install
     ```
 
 Ejecutar código
 
     ```
-    npm run dev
-    npm run start
+      npm run dev
+      npm run start
     ```
 
 ## Configuración .ENV
 
-      ```
+    ```
       HOST = 
       USER = 
       PASSWORD= 
       DATABASE= 
-      ```
+    ```
 
 ## Rutas del API
 
@@ -78,7 +78,7 @@ Ejecutar código
 
  ```
     https://freecourses-node-production.up.railway.app/
-  ```
+ ```
 
 ### Frontend
 
